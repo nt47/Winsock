@@ -1,0 +1,17 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ChatClient/ChatClient.vcxproj" Id="9ce149bd-a670-4f97-b670-ba6c838b178d" />
+  <Project Path="ChatServer/ChatServer.vcxproj" Id="c1753a05-1b06-456d-b724-fe1cec9f23ea" />
+  <Project Path="Client/Client.vcxproj" Id="c269d4d9-3d30-476d-82e4-9e1a22b3403c" />
+  <Project Path="P2pClient/P2pClient.vcxproj" Id="251af377-1f42-4f9f-930d-764f02243c2b" />
+  <Project Path="P2pServer/P2pServer.vcxproj" Id="8f382633-777d-428f-b7db-0e474fb33c75" />
+  <Project Path="Server/Server.vcxproj" Id="4342ad04-a529-4b26-b607-3dd640156e46" />
+  <Project Path="UdpChatClient/UdpChatClient.vcxproj" Id="b15718ea-cbb7-42d2-bcb7-f7b4304d8cc3" />
+  <Project Path="UdpChatServer/UdpChatServer.vcxproj" Id="9f024eee-e730-451f-a7ed-06b403de195b" />
+  <Project Path="UdpClient/UdpClient.vcxproj" Id="16a3cfed-30bf-4638-8dd2-cb3dec80331a" />
+  <Project Path="UdpServer/UdpServer.vcxproj" Id="b3d9e77b-8684-410d-a969-d76e7afc5cc2" />
+  <Project Path="Winsock/Winsock.vcxproj" Id="8ab02003-271b-404d-90f8-a0a5b114778e" />
+</Solution>
